@@ -1,5 +1,7 @@
 # calculadora-java
 
+Done with [@ArturoGRosich](https://github.com/ArturoGRosich)
+
 Creamos el proyecto y de forma seguida la interfaz ICalculadora. Es necesario que la clase implemente todos los métodos declarados en la interfaz:
 <img width="1080" alt="2022-05-15" src="https://user-images.githubusercontent.com/91556453/168466634-a474acb6-ff01-4748-94ad-0ee72e2cbba5.png">
 
