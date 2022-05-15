@@ -11,3 +11,4 @@ Como podíamos observar en la primera imágen, los nombres de las clases estaban
 
 Realizamos el primer commit, y creamos los casos test que comprueban si nuestro código pasa los casos test o no:
 <img width="1080" alt="2022-05-15 (2)" src="https://user-images.githubusercontent.com/91556453/168466848-5187ec3d-caed-401b-84e2-3cb20e408090.png">
+<img width="1055" alt="image" src="https://user-images.githubusercontent.com/91556453/168468823-3d22d7ed-fad5-4ba3-9e4b-ffb74b9471e0.png">
